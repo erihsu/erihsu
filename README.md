@@ -6,4 +6,4 @@ Formally Digtial IC Verification Engineer, Informally Tool developer based on Ru
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=erihsu)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=netcan&hide=ipynb,html&layout=compat)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=erihsu&hide=ipynb,html&layout=compat)
