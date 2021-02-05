@@ -5,4 +5,4 @@ Formally Digtial IC Verification Engineer, Informally Tool(EDA) developer based 
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=erihsu&show_icons=true&theme=ayu-mirage)
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=erihsu&langs_count=8&hide=ipynb,html,c,tcl&layout=compact&theme=ayu-mirage)
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=erihsu&langs_count=8&hide=ipynb,html,c,tcl,v,perl&layout=compact&theme=ayu-mirage)
