@@ -3,6 +3,7 @@ Formally Digtial IC Verification Engineer, Informally Tool(EDA) developer based 
 My interest field about EDA tool
 * parser
 * simulation
+* compiler
 
 ## Statistics
 ![Stats](https://github-readme-stats.vercel.app/api?username=erihsu&show_icons=true&theme=ayu-mirage)
